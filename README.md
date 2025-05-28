@@ -1,4 +1,5 @@
 🐍💧🔫 Snake Water Gun Game
+
 A simple Python console game inspired by the classic "Rock Paper Scissors" — but with a fun twist! 
 Play against the computer in a game of Snake, Water, Gun, where each choice has its own strengths and weaknesses.
 
@@ -32,7 +33,9 @@ Repeats until the user exits the game.
 Handles invalid inputs gracefully.
 
 🚀 Getting Started
+
 Prerequisites
+
 Python 3.x installed on your system
 
 Run the Game
